@@ -1,3 +1,5 @@
+![me](https://raw.githubusercontent.com/Techedge-Colombia/.github/main/img/BannerRRSSLinkedin3.jpg)
+
 ## Hi there 👋
 
 <!--
